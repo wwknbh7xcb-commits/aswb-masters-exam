@@ -1,0 +1,1561 @@
+[
+  {
+    "id": "d1-ia-theories-of-human-development-throughout-the-lifespan",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "Theories of human development throughout the lifespan",
+    "tags": ["development", "lifespan"]
+  },
+  {
+    "id": "d1-ia-indicators-normal-abnormal-development-throughout-the-lifespan",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "The indicators of normal and abnormal physical, cognitive, emotional, and sexual development throughout the lifespan",
+    "tags": ["development", "assessment"]
+  },
+  {
+    "id": "d1-ia-theories-sexual-development-throughout-the-lifespan",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "Theories of sexual development throughout the lifespan",
+    "tags": ["development", "sexuality"]
+  },
+  {
+    "id": "d1-ia-theories-spiritual-development-throughout-the-lifespan",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "Theories of spiritual development throughout the lifespan",
+    "tags": ["development", "spirituality"]
+  },
+  {
+    "id": "d1-ia-theories-racial-ethnic-cultural-development-throughout-the-lifespan",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "Theories of racial, ethnic, and cultural development throughout the lifespan",
+    "tags": ["development", "culture"]
+  },
+  {
+    "id": "d1-ia-effects-physical-mental-cognitive-disabilities-throughout-the-lifespan",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "The effects of physical, mental, and cognitive disabilities throughout the lifespan",
+    "tags": ["disability", "lifespan"]
+  },
+  {
+    "id": "d1-ia-interplay-biological-psychological-social-spiritual-factors",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "The interplay of biological, psychological, social, and spiritual factors",
+    "tags": ["biopsychosocial", "integration"]
+  },
+  {
+    "id": "d1-ia-basic-human-needs",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "Basic human needs",
+    "tags": ["foundations"]
+  },
+  {
+    "id": "d1-ia-principles-attachment-bonding",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "The principles of attachment and bonding",
+    "tags": ["attachment", "relationships"]
+  },
+  {
+    "id": "d1-ia-effect-aging-on-biopsychosocial-functioning",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "The effect of aging on biopsychosocial functioning",
+    "tags": ["aging", "biopsychosocial"]
+  },
+  {
+    "id": "d1-ia-gerontology",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "Gerontology",
+    "tags": ["aging"]
+  },
+  {
+    "id": "d1-ia-personality-theories",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "Personality theories",
+    "tags": ["personality", "theory"]
+  },
+  {
+    "id": "d1-ia-factors-influencing-self-image",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "Factors influencing self-image",
+    "tags": ["identity", "self-image"]
+  },
+  {
+    "id": "d1-ia-body-image-and-its-impact",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "Body image and its impact",
+    "tags": ["identity", "self-esteem"]
+  },
+  {
+    "id": "d1-ia-parenting-skills-and-capacities",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "Parenting skills and capacities",
+    "tags": ["parenting", "family"]
+  },
+  {
+    "id": "d1-ia-basic-principles-of-human-genetics",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "Basic principles of human genetics",
+    "tags": ["genetics", "biology"]
+  },
+  {
+    "id": "d1-ia-family-life-cycle",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "The family life cycle",
+    "tags": ["family", "lifespan"]
+  },
+  {
+    "id": "d1-ia-models-family-life-education-social-work-practice",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "Models of family life education in social work practice",
+    "tags": ["family", "education"]
+  },
+  {
+    "id": "d1-ia-impact-aging-parents-on-adult-children",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "The impact of aging parents on adult children",
+    "tags": ["aging", "family"]
+  },
+  {
+    "id": "d1-ia-systems-and-ecological-perspectives-and-theories",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "Systems and ecological perspectives and theories",
+    "tags": ["systems", "ecological"]
+  },
+  {
+    "id": "d1-ia-strengths-based-and-resilience-theories",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "Strengths-based and resilience theories",
+    "tags": ["strengths", "resilience"]
+  },
+  {
+    "id": "d1-ia-dynamics-and-effects-of-loss-separation-and-grief",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ia",
+    "title": "The dynamics and effects of loss, separation, and grief",
+    "tags": ["grief", "loss"]
+  },
+
+  {
+    "id": "d1-ib-person-in-environment-pie-theory",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "Person-in-Environment (PIE) theory",
+    "tags": ["pie", "theory"]
+  },
+  {
+    "id": "d1-ib-family-dynamics-and-functioning-and-effects",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "Family dynamics and functioning and the effects on individuals, families, groups, organizations, and communities",
+    "tags": ["family", "systems"]
+  },
+  {
+    "id": "d1-ib-dynamics-of-interpersonal-relationships",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "The dynamics of interpersonal relationships",
+    "tags": ["relationships", "interpersonal"]
+  },
+  {
+    "id": "d1-ib-indicators-and-dynamics-of-abuse-and-neglect",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "Indicators and dynamics of abuse and neglect throughout the lifespan",
+    "tags": ["abuse", "neglect"]
+  },
+  {
+    "id": "d1-ib-effects-of-physical-sexual-and-psychological-abuse",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "The effects of physical, sexual, and psychological abuse on individuals, families, groups, organizations, and communities",
+    "tags": ["abuse", "trauma"]
+  },
+  {
+    "id": "d1-ib-characteristics-of-perpetrators-of-abuse-neglect-and-exploitation",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "The characteristics of perpetrators of abuse, neglect, and exploitation",
+    "tags": ["abuse", "perpetrators"]
+  },
+  {
+    "id": "d1-ib-effects-of-life-events-stressors-and-crises",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "The effects of life events, stressors, and crises on individuals, families, groups, organizations, and communities",
+    "tags": ["stress", "crisis"]
+  },
+  {
+    "id": "d1-ib-impact-of-stress-trauma-and-violence",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "The impact of stress, trauma, and violence",
+    "tags": ["stress", "trauma"]
+  },
+  {
+    "id": "d1-ib-crisis-intervention-theories",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "Crisis intervention theories",
+    "tags": ["crisis", "theory"]
+  },
+  {
+    "id": "d1-ib-effect-of-poverty",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "The effect of poverty on individuals, families, groups, organizations, and communities",
+    "tags": ["poverty", "systems"]
+  },
+  {
+    "id": "d1-ib-impact-of-the-environment",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "The impact of the environment on individuals, families, groups, organizations, and communities",
+    "tags": ["environment", "systems"]
+  },
+  {
+    "id": "d1-ib-social-and-economic-justice",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "Social and economic justice",
+    "tags": ["justice", "macro"]
+  },
+  {
+    "id": "d1-ib-theories-of-social-change-and-community-development",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "Theories of social change and community development",
+    "tags": ["community", "change"]
+  },
+  {
+    "id": "d1-ib-impact-of-social-institutions-on-society",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "The impact of social institutions on society",
+    "tags": ["institutions", "society"]
+  },
+  {
+    "id": "d1-ib-impact-of-globalization-on-client-systems",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "The impact of globalization on clients/client systems",
+    "tags": ["globalization", "systems"]
+  },
+  {
+    "id": "d1-ib-criminal-justice-systems",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "Criminal justice systems",
+    "tags": ["criminal-justice", "systems"]
+  },
+  {
+    "id": "d1-ib-impact-of-out-of-home-placement-on-client-systems",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "The impact of out-of-home placement on clients/client systems",
+    "tags": ["placement", "systems"]
+  },
+  {
+    "id": "d1-ib-theories-of-couples-development",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "Theories of couples development",
+    "tags": ["couples", "development"]
+  },
+  {
+    "id": "d1-ib-impact-of-physical-and-mental-illness-on-family-dynamics",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "The impact of physical and mental illness on family dynamics",
+    "tags": ["family", "illness"]
+  },
+  {
+    "id": "d1-ib-co-occurring-disorders-and-conditions",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "Co-occurring disorders and conditions",
+    "tags": ["co-occurring", "diagnosis"]
+  },
+  {
+    "id": "d1-ib-impact-of-caregiving-on-families",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "The impact of caregiving on families",
+    "tags": ["caregiving", "family"]
+  },
+  {
+    "id": "d1-ib-psychological-defense-mechanisms",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "Psychological defense mechanisms and their effects on behavior and relationships",
+    "tags": ["defenses", "psychology"]
+  },
+  {
+    "id": "d1-ib-addiction-theories-and-concepts",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "Addiction theories and concepts",
+    "tags": ["addiction", "theory"]
+  },
+  {
+    "id": "d1-ib-effects-of-addiction-and-substance-abuse",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "The effects of addiction and substance abuse on individuals, families, groups, organizations, and communities",
+    "tags": ["addiction", "substance-use"]
+  },
+  {
+    "id": "d1-ib-indicators-of-addiction-and-substance-abuse",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "The indicators of addiction and substance abuse",
+    "tags": ["addiction", "assessment"]
+  },
+  {
+    "id": "d1-ib-role-theories",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "Role theories",
+    "tags": ["theory", "roles"]
+  },
+  {
+    "id": "d1-ib-feminist-theory",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "Feminist theory",
+    "tags": ["theory", "feminist"]
+  },
+  {
+    "id": "d1-ib-theories-of-group-development-and-functioning",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "Theories of group development and functioning",
+    "tags": ["group", "theory"]
+  },
+  {
+    "id": "d1-ib-communication-theories-and-styles",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "Communication theories and styles",
+    "tags": ["communication", "theory"]
+  },
+  {
+    "id": "d1-ib-theories-of-conflict",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ib",
+    "title": "Theories of conflict",
+    "tags": ["conflict", "theory"]
+  },
+
+  {
+    "id": "d1-ic-effect-of-disability-on-biopsychosocial-functioning",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ic",
+    "title": "The effect of disability on biopsychosocial functioning throughout the lifespan",
+    "tags": ["disability", "biopsychosocial"]
+  },
+  {
+    "id": "d1-ic-effect-of-culture-race-and-ethnicity",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ic",
+    "title": "The effect of culture, race, and ethnicity on behaviors, attitudes, and identity",
+    "tags": ["culture", "identity"]
+  },
+  {
+    "id": "d1-ic-effects-of-discrimination-and-stereotypes",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ic",
+    "title": "The effects of discrimination and stereotypes on behaviors, attitudes, and identity",
+    "tags": ["discrimination", "identity"]
+  },
+  {
+    "id": "d1-ic-influence-of-sexual-orientation",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ic",
+    "title": "The influence of sexual orientation on behaviors, attitudes, and identity",
+    "tags": ["sexual-orientation", "identity"]
+  },
+  {
+    "id": "d1-ic-impact-of-transgender-and-transitioning-process",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ic",
+    "title": "The impact of transgender and transitioning process on behaviors, attitudes, identity, and relationships",
+    "tags": ["gender-identity", "transgender"]
+  },
+  {
+    "id": "d1-ic-systemic-institutionalized-discrimination",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ic",
+    "title": "Systemic (institutionalized) discrimination",
+    "tags": ["systems", "discrimination"]
+  },
+  {
+    "id": "d1-ic-principles-of-culturally-competent-social-work-practice",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ic",
+    "title": "The principles of culturally competent social work practice",
+    "tags": ["cultural-competence", "practice"]
+  },
+  {
+    "id": "d1-ic-sexual-orientation-concepts",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ic",
+    "title": "Sexual orientation concepts",
+    "tags": ["sexual-orientation", "concepts"]
+  },
+  {
+    "id": "d1-ic-gender-and-gender-identity-concepts",
+    "domainId": "domain-1",
+    "subdomainId": "d1-ic",
+    "title": "Gender and gender identity concepts",
+    "tags": ["gender", "identity"]
+  },
+
+  {
+    "id": "d2-iia-components-of-a-biopsychosocial-assessment",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iia",
+    "title": "The components of a biopsychosocial assessment",
+    "tags": ["assessment", "biopsychosocial"]
+  },
+  {
+    "id": "d2-iia-techniques-and-instruments-used-to-assess-client-systems",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iia",
+    "title": "Techniques and instruments used to assess clients/client systems",
+    "tags": ["assessment", "instruments"]
+  },
+  {
+    "id": "d2-iia-types-of-information-available-from-other-sources",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iia",
+    "title": "The types of information available from other sources",
+    "tags": ["collateral", "records"]
+  },
+  {
+    "id": "d2-iia-methods-to-obtain-sensitive-information",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iia",
+    "title": "Methods to obtain sensitive information",
+    "tags": ["assessment", "sensitive-topics"]
+  },
+  {
+    "id": "d2-iia-principles-of-active-listening-and-observation",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iia",
+    "title": "The principles of active listening and observation",
+    "tags": ["engagement", "observation"]
+  },
+  {
+    "id": "d2-iia-indicators-of-sexual-dysfunction",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iia",
+    "title": "The indicators of sexual dysfunction",
+    "tags": ["assessment", "sexual-health"]
+  },
+  {
+    "id": "d2-iia-symptoms-of-neurologic-and-organic-disorders",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iia",
+    "title": "Symptoms of neurologic and organic disorders",
+    "tags": ["medical", "assessment"]
+  },
+
+  {
+    "id": "d2-iib-factors-and-processes-used-in-problem-formulation",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "The factors and processes used in problem formulation",
+    "tags": ["assessment", "formulation"]
+  },
+  {
+    "id": "d2-iib-methods-of-involving-client-systems-in-problem-identification",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "Methods of involving clients/client systems in problem identification",
+    "tags": ["engagement", "assessment"]
+  },
+  {
+    "id": "d2-iib-components-and-function-of-the-mental-status-examination",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "The components and function of the mental status examination",
+    "tags": ["mse", "assessment"]
+  },
+  {
+    "id": "d2-iib-methods-to-incorporate-results-of-psychological-and-educational-tests",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "Methods to incorporate the results of psychological and educational tests into assessment",
+    "tags": ["testing", "assessment"]
+  },
+  {
+    "id": "d2-iib-indicators-of-psychosocial-stress",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "The indicators of psychosocial stress",
+    "tags": ["stress", "assessment"]
+  },
+  {
+    "id": "d2-iib-indicators-dynamics-and-impact-of-exploitation-across-the-lifespan",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "The indicators, dynamics, and impact of exploitation across the lifespan",
+    "tags": ["exploitation", "assessment"]
+  },
+  {
+    "id": "d2-iib-indicators-of-traumatic-stress-and-violence",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "The indicators of traumatic stress and violence",
+    "tags": ["trauma", "assessment"]
+  },
+  {
+    "id": "d2-iib-methods-used-to-assess-trauma",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "Methods used to assess trauma",
+    "tags": ["trauma", "assessment"]
+  },
+  {
+    "id": "d2-iib-risk-assessment-methods",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "Risk assessment methods",
+    "tags": ["risk", "assessment"]
+  },
+  {
+    "id": "d2-iib-indicators-and-risk-factors-of-danger-to-self-and-others",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "The indicators and risk factors of the client’s/client system’s danger to self and others",
+    "tags": ["danger", "risk"]
+  },
+  {
+    "id": "d2-iib-methods-to-assess-strengths-resources-and-challenges",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "Methods to assess the client’s/client system’s strengths, resources, and challenges",
+    "tags": ["strengths", "assessment"]
+  },
+  {
+    "id": "d2-iib-indicators-of-motivation-resistance-and-readiness-to-change",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "The indicators of motivation, resistance, and readiness to change",
+    "tags": ["motivation", "change"]
+  },
+  {
+    "id": "d2-iib-methods-to-assess-motivation-resistance-and-readiness-to-change",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "Methods to assess motivation, resistance, and readiness to change",
+    "tags": ["motivation", "assessment"]
+  },
+  {
+    "id": "d2-iib-methods-to-assess-communication-skills",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "Methods to assess the client’s/client system’s communication skills",
+    "tags": ["communication", "assessment"]
+  },
+  {
+    "id": "d2-iib-methods-to-assess-coping-abilities",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "Methods to assess the client’s/client system’s coping abilities",
+    "tags": ["coping", "assessment"]
+  },
+  {
+    "id": "d2-iib-indicators-of-strengths-and-challenges",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "The indicators of the client’s/client system’s strengths and challenges",
+    "tags": ["strengths", "assessment"]
+  },
+  {
+    "id": "d2-iib-methods-to-assess-ego-strengths",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "Methods to assess ego strengths",
+    "tags": ["ego-strengths", "assessment"]
+  },
+  {
+    "id": "d2-iib-use-of-the-dsm",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "The use of the Diagnostic and Statistical Manual of the American Psychiatric Association",
+    "tags": ["dsm", "diagnosis"]
+  },
+  {
+    "id": "d2-iib-indicators-of-mental-and-emotional-illness-throughout-the-lifespan",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "The indicators of mental and emotional illness throughout the lifespan",
+    "tags": ["mental-health", "assessment"]
+  },
+  {
+    "id": "d2-iib-biopsychosocial-factors-related-to-mental-health",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "Biopsychosocial factors related to mental health",
+    "tags": ["mental-health", "biopsychosocial"]
+  },
+  {
+    "id": "d2-iib-biopsychosocial-responses-to-illness-and-disability",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "Biopsychosocial responses to illness and disability",
+    "tags": ["illness", "disability"]
+  },
+  {
+    "id": "d2-iib-common-psychotropic-and-non-psychotropic-medications-and-side-effects",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "Common psychotropic and non-psychotropic prescriptions and over-the-counter medications and their side effects",
+    "tags": ["medications", "side-effects"]
+  },
+  {
+    "id": "d2-iib-indicators-of-somatization",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "The indicators of somatization",
+    "tags": ["somatization", "assessment"]
+  },
+  {
+    "id": "d2-iib-indicators-of-feigning-illness",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "The indicators of feigning illness",
+    "tags": ["feigning", "assessment"]
+  },
+  {
+    "id": "d2-iib-basic-medical-terminology",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "Basic medical terminology",
+    "tags": ["medical", "terminology"]
+  },
+  {
+    "id": "d2-iib-indicators-of-behavioral-dysfunction",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "The indicators of behavioral dysfunction",
+    "tags": ["behavior", "assessment"]
+  },
+  {
+    "id": "d2-iib-placement-options-based-on-assessed-level-of-care",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "Placement options based on assessed level of care",
+    "tags": ["level-of-care", "placement"]
+  },
+  {
+    "id": "d2-iib-methods-to-assess-organizational-functioning",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "Methods to assess organizational functioning",
+    "tags": ["organization", "assessment"]
+  },
+  {
+    "id": "d2-iib-data-collection-and-analysis-methods",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "title": "Data collection and analysis methods",
+    "tags": ["data", "analysis"]
+  },
+
+  {
+    "id": "d2-iic-methods-to-involve-client-systems-in-intervention-planning",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iic",
+    "title": "Methods to involve clients/client systems in intervention planning",
+    "tags": ["planning", "engagement"]
+  },
+  {
+    "id": "d2-iic-cultural-considerations-in-the-creation-of-an-intervention-plan",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iic",
+    "title": "Cultural considerations in the creation of an intervention plan",
+    "tags": ["culture", "planning"]
+  },
+  {
+    "id": "d2-iic-criteria-used-in-selection-of-intervention-treatment-modalities",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iic",
+    "title": "The criteria used in the selection of intervention/treatment modalities",
+    "tags": ["modalities", "planning"]
+  },
+  {
+    "id": "d2-iic-components-of-intervention-treatment-and-service-plans",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iic",
+    "title": "The components of intervention, treatment, and service plans",
+    "tags": ["planning", "treatment"]
+  },
+  {
+    "id": "d2-iic-theories-of-trauma-informed-care",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iic",
+    "title": "Theories of trauma-informed care",
+    "tags": ["trauma-informed", "theory"]
+  },
+  {
+    "id": "d2-iic-methods-and-approaches-to-trauma-informed-care",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iic",
+    "title": "Methods and approaches to trauma-informed care",
+    "tags": ["trauma-informed", "practice"]
+  },
+  {
+    "id": "d2-iic-impact-of-immigration-refugee-or-undocumented-status-on-service-delivery",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iic",
+    "title": "The impact of immigration, refugee, or undocumented status on service delivery",
+    "tags": ["immigration", "service-delivery"]
+  },
+  {
+    "id": "d2-iic-methods-to-develop-review-and-implement-crisis-plans",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iic",
+    "title": "Methods to develop, review, and implement crisis plans",
+    "tags": ["crisis", "planning"]
+  },
+  {
+    "id": "d2-iic-discharge-aftercare-and-follow-up-planning",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iic",
+    "title": "Discharge, aftercare, and follow-up planning",
+    "tags": ["discharge", "aftercare"]
+  },
+  {
+    "id": "d2-iic-techniques-used-to-evaluate-progress",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iic",
+    "title": "Techniques used to evaluate a client’s/client system’s progress",
+    "tags": ["evaluation", "progress"]
+  },
+  {
+    "id": "d2-iic-methods-techniques-and-instruments-used-to-evaluate-social-work-practice",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iic",
+    "title": "Methods, techniques, and instruments used to evaluate social work practice",
+    "tags": ["evaluation", "practice"]
+  },
+  {
+    "id": "d2-iic-principles-and-features-of-objective-and-subjective-data",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iic",
+    "title": "The principles and features of objective and subjective data",
+    "tags": ["data", "documentation"]
+  },
+  {
+    "id": "d2-iic-basic-and-applied-research-design-and-methods",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iic",
+    "title": "Basic and applied research design and methods",
+    "tags": ["research", "methods"]
+  },
+  {
+    "id": "d2-iic-methods-to-assess-reliability-and-validity-in-social-work-research",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iic",
+    "title": "Methods to assess reliability and validity in social work research",
+    "tags": ["research", "validity"]
+  },
+
+  {
+    "id": "d3-iiia-components-of-the-social-worker-client-system-relationship",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiia",
+    "title": "The components of the social worker-client/client system relationship",
+    "tags": ["relationship", "alliance"]
+  },
+  {
+    "id": "d3-iiia-principles-and-techniques-for-building-and-maintaining-a-helping-relationship",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiia",
+    "title": "The principles and techniques for building and maintaining a helping relationship",
+    "tags": ["alliance", "engagement"]
+  },
+  {
+    "id": "d3-iiia-dynamics-of-power-and-transparency",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiia",
+    "title": "The dynamics of power and transparency in the social worker-client/client system relationship",
+    "tags": ["power", "transparency"]
+  },
+  {
+    "id": "d3-iiia-social-workers-role-in-the-problem-solving-process",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiia",
+    "title": "The social worker’s role in the problem-solving process",
+    "tags": ["problem-solving", "role"]
+  },
+  {
+    "id": "d3-iiia-methods-to-clarify-roles-and-responsibilities-in-the-intervention-process",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiia",
+    "title": "Methods to clarify the roles and responsibilities of the social worker and client/client system in the intervention process",
+    "tags": ["roles", "intervention"]
+  },
+  {
+    "id": "d3-iiia-concept-of-acceptance-and-empathy",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiia",
+    "title": "The concept of acceptance and empathy in the social worker-client/client system relationship",
+    "tags": ["empathy", "acceptance"]
+  },
+  {
+    "id": "d3-iiia-dynamics-of-diversity-in-the-relationship",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiia",
+    "title": "The dynamics of diversity in the social worker-client/client system relationship",
+    "tags": ["diversity", "relationship"]
+  },
+  {
+    "id": "d3-iiia-effect-of-the-clients-developmental-level-on-the-relationship",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiia",
+    "title": "The effect of the client’s developmental level on the social worker-client relationship",
+    "tags": ["development", "relationship"]
+  },
+  {
+    "id": "d3-iiia-impact-of-domestic-intimate-partner-and-other-violence-on-the-helping-relationship",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiia",
+    "title": "The impact of domestic, intimate partner, and other violence on the helping relationship",
+    "tags": ["violence", "relationship"]
+  },
+  {
+    "id": "d3-iiia-verbal-and-nonverbal-communication-techniques",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiia",
+    "title": "Verbal and nonverbal communication techniques",
+    "tags": ["communication", "skills"]
+  },
+  {
+    "id": "d3-iiia-concept-of-congruence-in-communication",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiia",
+    "title": "The concept of congruence in communication",
+    "tags": ["communication", "congruence"]
+  },
+  {
+    "id": "d3-iiia-methods-to-obtain-and-provide-feedback",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiia",
+    "title": "Methods to obtain and provide feedback",
+    "tags": ["feedback", "communication"]
+  },
+
+  {
+    "id": "d3-iiib-principles-and-techniques-of-interviewing",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "The principles and techniques of interviewing",
+    "tags": ["interviewing", "skills"]
+  },
+  {
+    "id": "d3-iiib-phases-of-intervention-and-treatment",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "The phases of intervention and treatment",
+    "tags": ["intervention", "treatment"]
+  },
+  {
+    "id": "d3-iiib-problem-solving-models-and-approaches",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Problem-solving models and approaches",
+    "tags": ["problem-solving", "models"]
+  },
+  {
+    "id": "d3-iiib-clients-role-in-the-problem-solving-process",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "The client’s/client system’s role in the problem-solving process",
+    "tags": ["problem-solving", "engagement"]
+  },
+  {
+    "id": "d3-iiib-methods-to-engage-and-motivate-clients",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Methods to engage and motivate clients/client systems",
+    "tags": ["engagement", "motivation"]
+  },
+  {
+    "id": "d3-iiib-methods-to-engage-and-work-with-involuntary-clients",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Methods to engage and work with involuntary clients/client systems",
+    "tags": ["involuntary", "engagement"]
+  },
+  {
+    "id": "d3-iiib-limit-setting-techniques",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Limit setting techniques",
+    "tags": ["boundaries", "skills"]
+  },
+  {
+    "id": "d3-iiib-technique-of-role-play",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "The technique of role play",
+    "tags": ["role-play", "skills"]
+  },
+  {
+    "id": "d3-iiib-role-modeling-techniques",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Role modeling techniques",
+    "tags": ["modeling", "skills"]
+  },
+  {
+    "id": "d3-iiib-techniques-for-harm-reduction-for-self-and-others",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Techniques for harm reduction for self and others",
+    "tags": ["harm-reduction", "safety"]
+  },
+  {
+    "id": "d3-iiib-methods-to-teach-coping-and-other-self-care-skills",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Methods to teach coping and other self-care skills to clients/client systems",
+    "tags": ["coping", "self-care"]
+  },
+  {
+    "id": "d3-iiib-client-system-self-monitoring-techniques",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Client/client system self-monitoring techniques",
+    "tags": ["self-monitoring", "skills"]
+  },
+  {
+    "id": "d3-iiib-methods-of-conflict-resolution",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Methods of conflict resolution",
+    "tags": ["conflict", "resolution"]
+  },
+  {
+    "id": "d3-iiib-crisis-intervention-and-treatment-approaches",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Crisis intervention and treatment approaches",
+    "tags": ["crisis", "intervention"]
+  },
+  {
+    "id": "d3-iiib-anger-management-techniques",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Anger management techniques",
+    "tags": ["anger", "skills"]
+  },
+  {
+    "id": "d3-iiib-stress-management-techniques",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Stress management techniques",
+    "tags": ["stress", "skills"]
+  },
+  {
+    "id": "d3-iiib-impact-of-out-of-home-displacement-on-client-systems",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "The impact of out-of-home displacement on clients/client systems",
+    "tags": ["displacement", "systems"]
+  },
+  {
+    "id": "d3-iiib-methods-to-create-implement-and-evaluate-policies-and-procedures-that-minimize-risk",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Methods to create, implement, and evaluate policies and procedures that minimize risk for individuals, families, groups, organizations, and communities",
+    "tags": ["risk", "policy"]
+  },
+  {
+    "id": "d3-iiib-psychotherapies",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Psychotherapies",
+    "tags": ["therapy", "modalities"]
+  },
+  {
+    "id": "d3-iiib-psychoanalytic-and-psychodynamic-approaches",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Psychoanalytic and psychodynamic approaches",
+    "tags": ["psychodynamic", "therapy"]
+  },
+  {
+    "id": "d3-iiib-cognitive-and-behavioral-interventions",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Cognitive and behavioral interventions",
+    "tags": ["cbt", "interventions"]
+  },
+  {
+    "id": "d3-iiib-strengths-based-and-empowerment-strategies-and-interventions",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Strengths-based and empowerment strategies and interventions",
+    "tags": ["strengths", "empowerment"]
+  },
+  {
+    "id": "d3-iiib-client-system-contracting-and-goal-setting-techniques",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Client/client system contracting and goal-setting techniques",
+    "tags": ["goals", "contracting"]
+  },
+  {
+    "id": "d3-iiib-partializing-techniques",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Partializing techniques",
+    "tags": ["skills", "intervention"]
+  },
+  {
+    "id": "d3-iiib-assertiveness-training",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Assertiveness training",
+    "tags": ["skills", "assertiveness"]
+  },
+  {
+    "id": "d3-iiib-task-centered-approaches",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Task-centered approaches",
+    "tags": ["task-centered", "approach"]
+  },
+  {
+    "id": "d3-iiib-psychoeducation-methods",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Psychoeducation methods",
+    "tags": ["psychoeducation", "skills"]
+  },
+  {
+    "id": "d3-iiib-group-work-techniques-and-approaches",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Group work techniques and approaches",
+    "tags": ["group-work", "techniques"]
+  },
+  {
+    "id": "d3-iiib-family-therapy-models-interventions-and-approaches",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Family therapy models, interventions, and approaches",
+    "tags": ["family-therapy", "models"]
+  },
+  {
+    "id": "d3-iiib-couples-interventions-and-treatment-approaches",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Couples interventions and treatment approaches",
+    "tags": ["couples", "treatment"]
+  },
+  {
+    "id": "d3-iiib-permanency-planning",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Permanency planning",
+    "tags": ["permanency", "planning"]
+  },
+  {
+    "id": "d3-iiib-mindfulness-and-complementary-therapeutic-approaches",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Mindfulness and complementary therapeutic approaches",
+    "tags": ["mindfulness", "therapy"]
+  },
+  {
+    "id": "d3-iiib-techniques-used-for-follow-up",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Techniques used for follow-up",
+    "tags": ["follow-up", "skills"]
+  },
+  {
+    "id": "d3-iiib-time-management-approaches",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Time management approaches",
+    "tags": ["time-management", "skills"]
+  },
+  {
+    "id": "d3-iiib-community-organizing-and-social-planning-methods",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Community organizing and social planning methods",
+    "tags": ["community", "macro"]
+  },
+  {
+    "id": "d3-iiib-methods-to-develop-and-evaluate-measurable-objectives",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Methods to develop and evaluate measurable objectives for client/client system intervention, treatment, and/or service plans",
+    "tags": ["objectives", "planning"]
+  },
+  {
+    "id": "d3-iiib-primary-secondary-and-tertiary-prevention-strategies",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "Primary, secondary, and tertiary prevention strategies",
+    "tags": ["prevention", "strategy"]
+  },
+  {
+    "id": "d3-iiib-indicators-of-readiness-for-termination",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiib",
+    "title": "The indicators of client/client system readiness for termination",
+    "tags": ["termination", "assessment"]
+  },
+
+  {
+    "id": "d3-iiic-effects-of-policies-procedures-regulations-and-legislation",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiic",
+    "title": "The effects of policies, procedures, regulations, and legislation on social work practice and service delivery",
+    "tags": ["policy", "service-delivery"]
+  },
+  {
+    "id": "d3-iiic-impact-of-the-political-environment-on-policy-making",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiic",
+    "title": "The impact of the political environment on policy-making",
+    "tags": ["policy", "politics"]
+  },
+  {
+    "id": "d3-iiic-theories-and-methods-of-advocacy",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiic",
+    "title": "Theories and methods of advocacy for policies, services, and resources to meet clients’/client systems’ needs",
+    "tags": ["advocacy", "policy"]
+  },
+  {
+    "id": "d3-iiic-methods-of-service-delivery",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiic",
+    "title": "Methods of service delivery",
+    "tags": ["service-delivery", "practice"]
+  },
+  {
+    "id": "d3-iiic-components-of-case-management",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiic",
+    "title": "The components of case management",
+    "tags": ["case-management", "practice"]
+  },
+  {
+    "id": "d3-iiic-principles-of-case-recording-documentation-and-management-of-practice-records",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiic",
+    "title": "The principles of case recording, documentation, and management of practice records",
+    "tags": ["documentation", "records"]
+  },
+  {
+    "id": "d3-iiic-methods-to-establish-service-networks-or-community-resources",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiic",
+    "title": "Methods to establish service networks or community resources",
+    "tags": ["resources", "networks"]
+  },
+  {
+    "id": "d3-iiic-employee-recruitment-training-retention-performance-appraisal-evaluation-and-discipline",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiic",
+    "title": "Employee recruitment, training, retention, performance appraisal, evaluation and discipline",
+    "tags": ["management", "supervision"]
+  },
+  {
+    "id": "d3-iiic-case-recording-for-practice-evaluation-or-supervision",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiic",
+    "title": "Case recording for practice evaluation or supervision",
+    "tags": ["documentation", "supervision"]
+  },
+  {
+    "id": "d3-iiic-methods-to-evaluate-agency-programs",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiic",
+    "title": "Methods to evaluate agency programs",
+    "tags": ["program-evaluation", "agency"]
+  },
+  {
+    "id": "d3-iiic-effects-of-program-evaluation-findings-on-services",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiic",
+    "title": "The effects of program evaluation findings on services",
+    "tags": ["program-evaluation", "services"]
+  },
+  {
+    "id": "d3-iiic-quality-assurance-program-reviews-and-audits",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiic",
+    "title": "Quality assurance, including program reviews and audits by external sources",
+    "tags": ["quality-assurance", "audits"]
+  },
+
+  {
+    "id": "d3-iiid-leadership-and-management-techniques",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "Leadership and management techniques",
+    "tags": ["leadership", "management"]
+  },
+  {
+    "id": "d3-iiid-models-of-supervision-and-consultation",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "Models of supervision and consultation",
+    "tags": ["supervision", "consultation"]
+  },
+  {
+    "id": "d3-iiid-educational-components-techniques-and-methods-of-supervision",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "Educational components, techniques, and methods of supervision",
+    "tags": ["supervision", "education"]
+  },
+  {
+    "id": "d3-iiid-supervisees-role-in-supervision",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "The supervisee’s role in supervision",
+    "tags": ["supervision", "learning"]
+  },
+  {
+    "id": "d3-iiid-methods-to-identify-learning-needs-and-develop-learning-objectives-for-supervisees",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "Methods to identify learning needs and develop learning objectives for supervisees",
+    "tags": ["supervision", "learning"]
+  },
+  {
+    "id": "d3-iiid-elements-of-client-system-reports",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "The elements of client/client system reports",
+    "tags": ["reports", "documentation"]
+  },
+  {
+    "id": "d3-iiid-elements-of-a-case-presentation",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "The elements of a case presentation",
+    "tags": ["case-presentation", "communication"]
+  },
+  {
+    "id": "d3-iiid-principles-and-processes-for-developing-formal-documents",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "The principles and processes for developing formal documents",
+    "tags": ["documents", "writing"]
+  },
+  {
+    "id": "d3-iiid-consultation-approaches",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "Consultation approaches",
+    "tags": ["consultation", "collaboration"]
+  },
+  {
+    "id": "d3-iiid-methods-of-networking",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "Methods of networking",
+    "tags": ["networking", "resources"]
+  },
+  {
+    "id": "d3-iiid-process-of-interdisciplinary-and-intradisciplinary-team-collaboration",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "The process of interdisciplinary and intradisciplinary team collaboration",
+    "tags": ["teams", "collaboration"]
+  },
+  {
+    "id": "d3-iiid-basic-terminology-of-professions-other-than-social-work",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "The basic terminology of professions other than social work",
+    "tags": ["interdisciplinary", "terminology"]
+  },
+  {
+    "id": "d3-iiid-techniques-to-inform-and-influence-organizational-and-social-policy",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "Techniques to inform and influence organizational and social policy",
+    "tags": ["policy", "influence"]
+  },
+  {
+    "id": "d3-iiid-methods-to-assess-the-availability-of-community-resources",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "Methods to assess the availability of community resources",
+    "tags": ["resources", "assessment"]
+  },
+  {
+    "id": "d3-iiid-techniques-for-mobilizing-community-participation",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "Techniques for mobilizing community participation",
+    "tags": ["community", "mobilization"]
+  },
+  {
+    "id": "d3-iiid-methods-to-establish-program-objectives-and-outcomes",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "Methods to establish program objectives and outcomes",
+    "tags": ["program", "outcomes"]
+  },
+  {
+    "id": "d3-iiid-governance-structures",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "Governance structures",
+    "tags": ["governance", "organizations"]
+  },
+  {
+    "id": "d3-iiid-relationship-between-formal-and-informal-power-structures",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "The relationship between formal and informal power structures in the decision-making process",
+    "tags": ["power", "decision-making"]
+  },
+  {
+    "id": "d3-iiid-accreditation-and-or-licensing-requirements",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiid",
+    "title": "Accreditation and/or licensing requirements",
+    "tags": ["licensing", "regulation"]
+  },
+
+  {
+    "id": "d4-iva-legal-and-or-ethical-issues-related-to-the-practice-of-social-work",
+    "domainId": "domain-4",
+    "subdomainId": "d4-iva",
+    "title": "Legal and/or ethical issues related to the practice of social work, including responsibility to clients/client systems, colleagues, the profession, and society",
+    "tags": ["ethics", "legal"]
+  },
+  {
+    "id": "d4-iva-techniques-to-identify-and-resolve-ethical-dilemmas",
+    "domainId": "domain-4",
+    "subdomainId": "d4-iva",
+    "title": "Techniques to identify and resolve ethical dilemmas",
+    "tags": ["ethics", "decision-making"]
+  },
+  {
+    "id": "d4-iva-clients-right-to-refuse-services",
+    "domainId": "domain-4",
+    "subdomainId": "d4-iva",
+    "title": "The client’s/client system’s right to refuse services",
+    "tags": ["rights", "ethics"]
+  },
+  {
+    "id": "d4-iva-professional-boundaries-in-the-social-worker-client-system-relationship",
+    "domainId": "domain-4",
+    "subdomainId": "d4-iva",
+    "title": "Professional boundaries in the social worker-client/client system relationship",
+    "tags": ["boundaries", "ethics"]
+  },
+  {
+    "id": "d4-iva-ethical-issues-related-to-dual-relationships",
+    "domainId": "domain-4",
+    "subdomainId": "d4-iva",
+    "title": "Ethical issues related to dual relationships",
+    "tags": ["dual-relationships", "ethics"]
+  },
+  {
+    "id": "d4-iva-self-disclosure-principles-and-applications",
+    "domainId": "domain-4",
+    "subdomainId": "d4-iva",
+    "title": "Self-disclosure principles and applications",
+    "tags": ["self-disclosure", "ethics"]
+  },
+  {
+    "id": "d4-iva-the-principles-and-processes-of-obtaining-informed-consent",
+    "domainId": "domain-4",
+    "subdomainId": "d4-iva",
+    "title": "The principles and processes of obtaining informed consent",
+    "tags": ["informed-consent", "ethics"]
+  },
+  {
+    "id": "d4-iva-legal-and-or-ethical-issues-regarding-documentation",
+    "domainId": "domain-4",
+    "subdomainId": "d4-iva",
+    "title": "Legal and/or ethical issues regarding documentation",
+    "tags": ["documentation", "ethics"]
+  },
+  {
+    "id": "d4-iva-legal-and-or-ethical-issues-regarding-termination",
+    "domainId": "domain-4",
+    "subdomainId": "d4-iva",
+    "title": "Legal and/or ethical issues regarding termination",
+    "tags": ["termination", "ethics"]
+  },
+  {
+    "id": "d4-iva-legal-and-or-ethical-issues-related-to-death-and-dying",
+    "domainId": "domain-4",
+    "subdomainId": "d4-iva",
+    "title": "Legal and/or ethical issues related to death and dying",
+    "tags": ["death-and-dying", "ethics"]
+  },
+  {
+    "id": "d4-iva-research-ethics",
+    "domainId": "domain-4",
+    "subdomainId": "d4-iva",
+    "title": "Research ethics",
+    "tags": ["research", "ethics"]
+  },
+  {
+    "id": "d4-iva-ethical-issues-in-supervision-and-management",
+    "domainId": "domain-4",
+    "subdomainId": "d4-iva",
+    "title": "Ethical issues in supervision and management",
+    "tags": ["supervision", "ethics"]
+  },
+  {
+    "id": "d4-iva-methods-to-create-implement-and-evaluate-policies-and-procedures-for-social-worker-safety",
+    "domainId": "domain-4",
+    "subdomainId": "d4-iva",
+    "title": "Methods to create, implement, and evaluate policies and procedures for social worker safety",
+    "tags": ["safety", "policy"]
+  },
+
+  {
+    "id": "d4-ivb-use-of-client-system-records",
+    "domainId": "domain-4",
+    "subdomainId": "d4-ivb",
+    "title": "The use of client/client system records",
+    "tags": ["records", "confidentiality"]
+  },
+  {
+    "id": "d4-ivb-legal-and-or-ethical-issues-regarding-confidentiality-including-electronic-information-security",
+    "domainId": "domain-4",
+    "subdomainId": "d4-ivb",
+    "title": "Legal and/or ethical issues regarding confidentiality, including electronic information security",
+    "tags": ["confidentiality", "technology"]
+  },
+  {
+    "id": "d4-ivb-legal-and-or-ethical-issues-regarding-mandatory-reporting",
+    "domainId": "domain-4",
+    "subdomainId": "d4-ivb",
+    "title": "Legal and/or ethical issues regarding mandatory reporting",
+    "tags": ["mandatory-reporting", "ethics"]
+  },
+
+  {
+    "id": "d4-ivc-professional-values-and-principles",
+    "domainId": "domain-4",
+    "subdomainId": "d4-ivc",
+    "title": "Professional values and principles",
+    "tags": ["values", "ethics"]
+  },
+  {
+    "id": "d4-ivc-professional-objectivity-in-the-social-worker-client-system-relationship",
+    "domainId": "domain-4",
+    "subdomainId": "d4-ivc",
+    "title": "Professional objectivity in the social worker-client/client system relationship",
+    "tags": ["objectivity", "use-of-self"]
+  },
+  {
+    "id": "d4-ivc-techniques-for-protecting-and-enhancing-self-determination",
+    "domainId": "domain-4",
+    "subdomainId": "d4-ivc",
+    "title": "Techniques for protecting and enhancing client/client system self-determination",
+    "tags": ["self-determination", "ethics"]
+  },
+  {
+    "id": "d4-ivc-client-system-competence-and-self-determination",
+    "domainId": "domain-4",
+    "subdomainId": "d4-ivc",
+    "title": "Client/client system competence and self-determination",
+    "tags": ["competence", "self-determination"]
+  },
+  {
+    "id": "d4-ivc-influence-of-the-social-workers-own-values-and-beliefs-on-the-relationship",
+    "domainId": "domain-4",
+    "subdomainId": "d4-ivc",
+    "title": "The influence of the social worker’s own values and beliefs on the social worker-client/client system relationship",
+    "tags": ["values", "use-of-self"]
+  },
+  {
+    "id": "d4-ivc-influence-of-the-social-workers-own-values-and-beliefs-on-interdisciplinary-collaboration",
+    "domainId": "domain-4",
+    "subdomainId": "d4-ivc",
+    "title": "The influence of the social worker’s own values and beliefs on interdisciplinary collaboration",
+    "tags": ["values", "collaboration"]
+  },
+  {
+    "id": "d4-ivc-impact-of-transference-and-countertransference-in-the-social-worker-client-system-relationship",
+    "domainId": "domain-4",
+    "subdomainId": "d4-ivc",
+    "title": "The impact of transference and countertransference in the social worker-client/client system relationship",
+    "tags": ["transference", "countertransference"]
+  },
+  {
+    "id": "d4-ivc-impact-of-transference-and-countertransference-within-supervisory-relationships",
+    "domainId": "domain-4",
+    "subdomainId": "d4-ivc",
+    "title": "The impact of transference and countertransference within supervisory relationships",
+    "tags": ["transference", "supervision"]
+  },
+  {
+    "id": "d4-ivc-components-of-a-safe-and-positive-work-environment",
+    "domainId": "domain-4",
+    "subdomainId": "d4-ivc",
+    "title": "The components of a safe and positive work environment",
+    "tags": ["work-environment", "safety"]
+  },
+  {
+    "id": "d4-ivc-social-worker-self-care-principles-and-techniques",
+    "domainId": "domain-4",
+    "subdomainId": "d4-ivc",
+    "title": "Social worker self-care principles and techniques",
+    "tags": ["self-care", "wellness"]
+  },
+  {
+    "id": "d4-ivc-burnout-secondary-trauma-and-compassion-fatigue",
+    "domainId": "domain-4",
+    "subdomainId": "d4-ivc",
+    "title": "Burnout, secondary trauma, and compassion fatigue",
+    "tags": ["burnout", "secondary-trauma"]
+  },
+  {
+    "id": "d4-ivc-evidence-based-practice",
+    "domainId": "domain-4",
+    "subdomainId": "d4-ivc",
+    "title": "Evidence-based practice",
+    "tags": ["ebp", "practice"]
+  },
+  {
+    "id": "d4-ivc-professional-development-activities-to-improve-practice-and-maintain-current-professional-knowledge",
+    "domainId": "domain-4",
+    "subdomainId": "d4-ivc",
+    "title": "Professional development activities to improve practice and maintain current professional knowledge",
+    "tags": ["professional-development", "learning"]
+  }
+]

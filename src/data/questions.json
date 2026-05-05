@@ -1,0 +1,254 @@
+[
+  {
+    "id": "q-risk-001",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "ksaId": "d2-iib-risk-assessment-methods",
+    "cognitiveLevel": "reasoning",
+    "qualifier": "FIRST",
+    "stem": "A social worker meets with a client who reports hearing commands to harm a coworker. What should the social worker do FIRST?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Explore the client's childhood trauma history"
+      },
+      {
+        "id": "B",
+        "text": "Assess whether the client has a specific plan and means"
+      },
+      {
+        "id": "C",
+        "text": "Refer the client for long-term psychotherapy"
+      },
+      {
+        "id": "D",
+        "text": "Encourage journaling to reduce distress"
+      }
+    ],
+    "correctAnswer": "B",
+    "rationale": {
+      "correct": "Safety and risk assessment come before exploratory work, coping strategies, or long-term referral.",
+      "incorrect": {
+        "A": "Trauma history may matter later, but not before danger is assessed.",
+        "C": "Referral is premature before the urgency and immediacy of the threat are known.",
+        "D": "This may be supportive later, but it is insufficient when there may be risk to others."
+      }
+    }
+  },
+  {
+    "id": "q-danger-001",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "ksaId": "d2-iib-danger-self-others",
+    "cognitiveLevel": "reasoning",
+    "qualifier": "MOST",
+    "stem": "A client who was recently hospitalized for suicidal ideation now states, 'I finally feel calm. Everyone will be better off soon.' Which concern should the social worker consider MOST important?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The client may be ready for discharge planning"
+      },
+      {
+        "id": "B",
+        "text": "The client may be minimizing ongoing suicide risk"
+      },
+      {
+        "id": "C",
+        "text": "The client is showing improved coping skills"
+      },
+      {
+        "id": "D",
+        "text": "The client is demonstrating acceptance of treatment"
+      }
+    ],
+    "correctAnswer": "B",
+    "rationale": {
+      "correct": "Sudden calm in the context of recent suicidal ideation can signal elevated risk rather than improvement.",
+      "incorrect": {
+        "A": "Discharge planning is premature when risk may still be active.",
+        "C": "The stem does not support a conclusion of improved coping.",
+        "D": "There is no indication that the client is accepting treatment."
+      }
+    }
+  },
+  {
+    "id": "q-dsm-001",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "ksaId": "d2-iib-dsm-use",
+    "cognitiveLevel": "application",
+    "qualifier": "MOST likely",
+    "stem": "For the past seven months, a client has experienced excessive worry, restlessness, irritability, and difficulty sleeping. There is no single precipitating event. What is the MOST likely diagnosis?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Generalized anxiety disorder"
+      },
+      {
+        "id": "B",
+        "text": "Adjustment disorder with anxiety"
+      },
+      {
+        "id": "C",
+        "text": "Panic disorder"
+      },
+      {
+        "id": "D",
+        "text": "Acute stress disorder"
+      }
+    ],
+    "correctAnswer": "A",
+    "rationale": {
+      "correct": "The duration and symptom pattern best fit generalized anxiety disorder.",
+      "incorrect": {
+        "B": "Adjustment disorder requires an identifiable stressor and does not fit the duration/pattern as well.",
+        "C": "Panic disorder centers on recurrent unexpected panic attacks, which are not described.",
+        "D": "Acute stress disorder is trauma-linked and limited in duration."
+      }
+    }
+  },
+  {
+    "id": "q-trauma-001",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iib",
+    "ksaId": "d2-iib-trauma-assessment",
+    "cognitiveLevel": "application",
+    "qualifier": "FIRST",
+    "stem": "During an initial session, an adult client who was sexually abused as a child becomes fearful and hesitant when asked for specific details about the abuse. What should the social worker do FIRST?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Change the topic to avoid retraumatization"
+      },
+      {
+        "id": "B",
+        "text": "Confront the client about avoidance"
+      },
+      {
+        "id": "C",
+        "text": "Acknowledge the client's reluctance to discuss the experience"
+      },
+      {
+        "id": "D",
+        "text": "Ask whether the client wants to terminate services"
+      }
+    ],
+    "correctAnswer": "C",
+    "rationale": {
+      "correct": "Acknowledging reluctance is validating, trauma-informed, and appropriately paced.",
+      "incorrect": {
+        "A": "Avoidance of all discussion is not the best first move if the client is still engaged.",
+        "B": "Confrontation is likely too aggressive and not trauma-informed here.",
+        "D": "Termination is premature and not the first response."
+      }
+    }
+  },
+  {
+    "id": "q-bps-001",
+    "domainId": "domain-2",
+    "subdomainId": "d2-iia",
+    "ksaId": "d2-iia-components-bps",
+    "cognitiveLevel": "recall",
+    "qualifier": "BEST",
+    "stem": "Which item is BEST understood as part of a biopsychosocial assessment?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only the client's DSM diagnosis"
+      },
+      {
+        "id": "B",
+        "text": "Biological, psychological, and social functioning relevant to the presenting problem"
+      },
+      {
+        "id": "C",
+        "text": "A list of referrals made after discharge"
+      },
+      {
+        "id": "D",
+        "text": "Only the client's family history"
+      }
+    ],
+    "correctAnswer": "B",
+    "rationale": {
+      "correct": "A biopsychosocial assessment integrates multiple dimensions of functioning relevant to the client.",
+      "incorrect": {
+        "A": "Diagnosis may be part of assessment but does not equal the full biopsychosocial picture.",
+        "C": "Referrals may follow assessment but are not the assessment itself.",
+        "D": "Family history may contribute, but it is only one part."
+      }
+    }
+  },
+  {
+    "id": "q-alliance-001",
+    "domainId": "domain-3",
+    "subdomainId": "d3-iiia",
+    "ksaId": "d3-iiia-building-alliance",
+    "cognitiveLevel": "reasoning",
+    "qualifier": "FIRST",
+    "stem": "A client with a history of hostility toward agency staff arrives for an intake interview and answers in one-word responses. What should the social worker do FIRST to begin building a therapeutic alliance?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Review all prior services the client has received"
+      },
+      {
+        "id": "B",
+        "text": "Engage the client in discussing the presenting problem"
+      },
+      {
+        "id": "C",
+        "text": "Explain that hostile behavior will not be tolerated"
+      },
+      {
+        "id": "D",
+        "text": "Refer the client to an anger management group"
+      }
+    ],
+    "correctAnswer": "B",
+    "rationale": {
+      "correct": "Engagement around the client's current concern is the strongest first move toward alliance-building.",
+      "incorrect": {
+        "A": "This may matter later, but it does not directly build initial engagement.",
+        "C": "Limit setting may become relevant, but it is not the best first alliance move in the stem.",
+        "D": "Referral is premature before engagement and assessment."
+      }
+    }
+  },
+  {
+    "id": "q-ethics-001",
+    "domainId": "domain-4",
+    "subdomainId": "d4-ivb",
+    "ksaId": "d4-ivb-confidentiality",
+    "cognitiveLevel": "application",
+    "qualifier": "FIRST",
+    "stem": "A social worker receives a call from a client's spouse asking whether the client is currently in session. The client has not signed a release of information. What should the social worker do FIRST?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Confirm the client is in the office but give no further details"
+      },
+      {
+        "id": "B",
+        "text": "Explain the limits of confidentiality in a general way"
+      },
+      {
+        "id": "C",
+        "text": "Ask the spouse to sign a release of information"
+      },
+      {
+        "id": "D",
+        "text": "Hang up immediately"
+      }
+    ],
+    "correctAnswer": "B",
+    "rationale": {
+      "correct": "The social worker should protect confidentiality and respond in a general, nonconfirming way.",
+      "incorrect": {
+        "A": "Even confirming the client is present discloses protected information.",
+        "C": "The spouse cannot authorize release of the client's confidential information.",
+        "D": "Abruptly hanging up is not the best first professional response."
+      }
+    }
+  }
+]

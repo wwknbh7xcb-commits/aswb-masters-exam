@@ -1,0 +1,30 @@
+[
+  {
+    "id": "domain-1",
+    "code": "I",
+    "title": "Human Development, Diversity, and Behavior in the Environment",
+    "weight": 24,
+    "description": "Human growth, systems, diversity, oppression, and person-in-environment foundations."
+  },
+  {
+    "id": "domain-2",
+    "code": "II",
+    "title": "Assessment, Diagnosis, and Treatment Planning",
+    "weight": 30,
+    "description": "Clinical assessment, diagnosis, case formulation, risk assessment, and planning."
+  },
+  {
+    "id": "domain-3",
+    "code": "III",
+    "title": "Psychotherapy, Clinical Interventions, and Case Management",
+    "weight": 27,
+    "description": "Therapeutic relationship, interventions, service delivery, and collaboration."
+  },
+  {
+    "id": "domain-4",
+    "code": "IV",
+    "title": "Professional Values and Ethics",
+    "weight": 19,
+    "description": "Ethics, confidentiality, professional judgment, and use of self."
+  }
+]

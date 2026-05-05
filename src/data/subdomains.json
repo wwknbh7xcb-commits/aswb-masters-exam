@@ -1,0 +1,80 @@
+[
+  {
+    "id": "d1-ia",
+    "domainId": "domain-1",
+    "code": "IA",
+    "title": "Human Growth and Development"
+  },
+  {
+    "id": "d1-ib",
+    "domainId": "domain-1",
+    "code": "IB",
+    "title": "Human Behavior in the Social Environment"
+  },
+  {
+    "id": "d1-ic",
+    "domainId": "domain-1",
+    "code": "IC",
+    "title": "Diversity and Discrimination"
+  },
+  {
+    "id": "d2-iia",
+    "domainId": "domain-2",
+    "code": "IIA",
+    "title": "Biopsychosocial History and Collateral Data"
+  },
+  {
+    "id": "d2-iib",
+    "domainId": "domain-2",
+    "code": "IIB",
+    "title": "Assessment and Diagnosis"
+  },
+  {
+    "id": "d2-iic",
+    "domainId": "domain-2",
+    "code": "IIC",
+    "title": "Treatment Planning"
+  },
+  {
+    "id": "d3-iiia",
+    "domainId": "domain-3",
+    "code": "IIIA",
+    "title": "Therapeutic Relationship"
+  },
+  {
+    "id": "d3-iiib",
+    "domainId": "domain-3",
+    "code": "IIIB",
+    "title": "The Intervention Process"
+  },
+  {
+    "id": "d3-iiic",
+    "domainId": "domain-3",
+    "code": "IIIC",
+    "title": "Service Delivery and Management of Cases"
+  },
+  {
+    "id": "d3-iiid",
+    "domainId": "domain-3",
+    "code": "IIID",
+    "title": "Consultation and Interdisciplinary Collaboration"
+  },
+  {
+    "id": "d4-iva",
+    "domainId": "domain-4",
+    "code": "IVA",
+    "title": "Professional Values and Ethical Issues"
+  },
+  {
+    "id": "d4-ivb",
+    "domainId": "domain-4",
+    "code": "IVB",
+    "title": "Confidentiality"
+  },
+  {
+    "id": "d4-ivc",
+    "domainId": "domain-4",
+    "code": "IVC",
+    "title": "Professional Development and Use of Self"
+  }
+]
