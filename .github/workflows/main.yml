@@ -14,17 +14,18 @@ jobs:
       id-token: write
 
     steps:
-      - uses: actions/checkout@v4
+  - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
+  - uses: actions/setup-node@v4
+    with:
+      node-version: 20
 
-      - run: npm install
-      - run: npm run build
+  - run: cd aswb-exam-hub-v1 && npm install
 
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./dist
+  - run: cd aswb-exam-hub-v1 && npm run build
 
-      - uses: actions/deploy-pages@v4
+  - uses: actions/upload-pages-artifact@v3
+    with:
+      path: ./aswb-exam-hub-v1/dist
+
+  - uses: actions/deploy-pages@v4
