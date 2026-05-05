@@ -6,7 +6,7 @@ import './styles.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/aswb-study-guide">
+    <BrowserRouter basename="/aswb-masters-exam">
       <App />
     </BrowserRouter>
   </React.StrictMode>,
